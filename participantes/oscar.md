@@ -1,20 +1,16 @@
 
 <!-- Profile Image -->
-<img src="https://user-images.githubusercontent.com/19904063/117953727-99727680-b316-11eb-8491-3b76f5482e10.png" height="120" width="120" align="left"/> **Oscar Chavez**
+<img src="https://twitter.com/oscar_ch_b" height="120" width="120" align="left"/> **Oscar Chavez**
 
 Redes sociales:
 </br>
 
 
 <!-- Twitter -->
-<!--
-<a href=""> <img src="https://user-images.githubusercontent.com/19904063/117954385-40efa900-b317-11eb-8bd5-25acb19de064.png"  align="left"/> </a>
--->
 
-<!-- Facebook -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954388-41883f80-b317-11eb-8315-decc0239f29b.png"  align="left"/> </a>
--->
+<a href="https://twitter.com/oscar_ch_b"> <img src="https://twitter.com/oscar_ch_b/photo"  align="left"/> </a>
+
+
 <!-- Github -->
 <!--
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
@@ -23,9 +19,9 @@ Redes sociales:
 <a href="https://youtube.com/channel/UCr4jAEWSLAUe1AAoq_70nyg"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
 
 <!-- Linkedin -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
--->
+
+<a href="https://www.linkedin.com/in/oscarchb/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
+
 
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839987951"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
@@ -39,25 +35,40 @@ Redes sociales:
 
 ## Sobre mi
 
-<!-- Borrar esta linea
+Hola soy Oscar tengo 24 años y soy desarrollador de Software. Soy un desarrollador que le gusta lo que hace. Desde temprana edad me incline por el software y por el maravilloso mundo que lo rodea, mientras aprendía también ayudaba a otros, pues después de todo, la mejor manera de reforzar los conocimientos es mostrándole la información a los demás.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-## Mis articulos
-
-|               |               |
-| ------------- | ------------- |
-| <a href="https://medium.com/flutter/announcing-xd-to-flutter-v2-0-c743bac2aeeb"> <img src="https://user-images.githubusercontent.com/19904063/117956006-eb1c0080-b318-11eb-93c4-7d921b528734.png" height="200" align="right"/> </a>  |  **Announcing XD to Flutter v2.0!** </br> Giving designers a fast path to production Flutter code |
-| <a href="https://medium.com/flutter/flutter-web-support-hits-the-stable-milestone-d6b84e83b425"> <img src="https://user-images.githubusercontent.com/19904063/117956630-84e3ad80-b319-11eb-9346-7fff4f49f659.png" height="200" align="right"/> </a>  |  **Flutter web support hits the stable milestone** </br> Publish to web and mobile from the same codebase |
+Desarrollo en Flutter desde 2018 (un poco más un poco menos) y me encanta su simpleza y todo lo que abarca la creación de apps móviles de la mano de este hermosa y potente herramienta de desarrollo.
 
 
-## Videos 
+## Videos para principiantes
 
-|               |               |
-| ------------- | ------------- |
-| <a href="https://www.youtube.com/watch?v=ci14fb9n9TE"> <img src="https://img.youtube.com/vi/ci14fb9n9TE/0.jpg" height="200" align="right"/> </a>  |  **Flutter Engage Spain - Keynote** </br> |
-| <a href="https://www.youtube.com/watch?v=olMC7_Mayv8"> <img src="https://img.youtube.com/vi/olMC7_Mayv8/0.jpg" height="200" align="right"/> </a>  |  **Null Safety Q&A - Mesa redonda** </br> |
+<a href="https://www.youtube.com/watch?v=LVhsMHxG0Zs&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=1&t=83s"> 
+  <img src="https://i.ytimg.com/vi/LVhsMHxG0Zs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAmwoDdEMAnuvQhLmqrEUaPIONZw" height="200" align="right"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=mSyIIBiokb4&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=68s"> 
+  <img src="https://i.ytimg.com/vi/mSyIIBiokb4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5UtQ7FcSG8e-02rzddjHWc--Jkg" height="200" align="right"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=GD0i2PGiG_g&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=27s"> 
+  <img src="https://i.ytimg.com/vi/GD0i2PGiG_g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGWI_dAIvdpSyx8w9QGTIY08zp_w" height="200" align="right"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=3MhX33GUr78&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=4"> 
+  <img src="https://i.ytimg.com/vi/3MhX33GUr78/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvc3a9bsJmnyYYTz3oSFy-WMR4DQ" height="200" align="right"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=TUH8qxNaYUg&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=5"> 
+  <img src="https://i.ytimg.com/vi/TUH8qxNaYUg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUcfj-R7fXx6twFzhbLIlHknTHTA" height="200" align="right"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=JeB-zuLa2sA&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=6&t=4s"> 
+  <img src="https://i.ytimg.com/vi/JeB-zuLa2sA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXs6bFjNmUAd8ANJJl1yLp9Wpzdg" height="200" align="right"/> 
+</a>
 
 
+## Videos para devs con experiencias centrado a paquetes utiles
 
--->
+<a href="https://www.youtube.com/watch?v=NwFUISjK-x8&list=PLuvRaIlbwRWV9pd-mkJJ4NC2kB1zZALUh&index=1&t=34s"> 
+  <img src="https://i.ytimg.com/vi/NwFUISjK-x8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGZM3HQPl-M_by-njU-gGxiFVKcA" height="200" align="right"/> 
+</a>
