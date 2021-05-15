@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<img src="https://user-images.githubusercontent.com/19904063/117953727-99727680-b316-11eb-8491-3b76f5482e10.png" height="120" width="120" align="left"/> **Nicos Fabro**
+<img src="https://avatars.githubusercontent.com/u/22842257?v=4" height="120" width="120" align="left"/> **Nicos Fabro**
 
 Redes sociales:
 </br>
@@ -9,27 +9,22 @@ Redes sociales:
 <!--
 <a href=""> <img src="https://user-images.githubusercontent.com/19904063/117954385-40efa900-b317-11eb-8bd5-25acb19de064.png"  align="left"/> </a>
 -->
-
 <!-- Instagram-->
 <a href="https://www.instagram.com/nfabroc_/"> <img src="https://user-images.githubusercontent.com/19904063/118005484-b7f26500-b34a-11eb-879d-f75bb6326b1b.png"  align="left"/> </a>
-
-
 <!-- Facebook -->
 <!--
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954388-41883f80-b317-11eb-8315-decc0239f29b.png"  align="left"/> </a>
 -->
 <!-- Github -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
--->
+<a href="https://github.com/NicosFabro"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
+<!-- Twitch -->
+<a href="https://www.twitch.tv/nfabro"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_tile_logo_icon_170382.png" width="30px" align="left"/> </a>
 <!-- Youtube -->
 <!--
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
 -->
 <!-- Linkedin -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
--->
+<a href="https://www.linkedin.com/in/nicos-fabro/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
 
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839987377"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
@@ -43,25 +38,6 @@ Redes sociales:
 
 ## Sobre mi
 
-<!-- Borrar esta linea
+Soy un estudiante de último año del grado Técnicas de Aplicación de Software en LaSalle Bonanova, Barcelona. Llevo desarrollando con Flutter desde Septiembre de 2020, aprendiendo por mi cuenta y codo a codo con un compañero de clase, así que aún me queda mucho por aprender. Actualmente estoy trabajando como desarrollador en la startup ClubControl, desarrollando la aplicación con Flutter.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-## Mis articulos
-
-|               |               |
-| ------------- | ------------- |
-| <a href="https://medium.com/flutter/announcing-xd-to-flutter-v2-0-c743bac2aeeb"> <img src="https://user-images.githubusercontent.com/19904063/117956006-eb1c0080-b318-11eb-93c4-7d921b528734.png" height="200" align="right"/> </a>  |  **Announcing XD to Flutter v2.0!** </br> Giving designers a fast path to production Flutter code |
-| <a href="https://medium.com/flutter/flutter-web-support-hits-the-stable-milestone-d6b84e83b425"> <img src="https://user-images.githubusercontent.com/19904063/117956630-84e3ad80-b319-11eb-9346-7fff4f49f659.png" height="200" align="right"/> </a>  |  **Flutter web support hits the stable milestone** </br> Publish to web and mobile from the same codebase |
-
-
-## Videos 
-
-|               |               |
-| ------------- | ------------- |
-| <a href="https://www.youtube.com/watch?v=ci14fb9n9TE"> <img src="https://img.youtube.com/vi/ci14fb9n9TE/0.jpg" height="200" align="right"/> </a>  |  **Flutter Engage Spain - Keynote** </br> |
-| <a href="https://www.youtube.com/watch?v=olMC7_Mayv8"> <img src="https://img.youtube.com/vi/olMC7_Mayv8/0.jpg" height="200" align="right"/> </a>  |  **Null Safety Q&A - Mesa redonda** </br> |
-
-
-
--->
+El contenido que haré será desarrollar la aplicación de mi Trabajo Final de Grado en directo desde [Twitch](https://www.twitch.tv/nfabro) y resubidos en [Youtube](https://www.youtube.com/playlist?list=PLtVpPvflincNv-J3kGvQ9nwB-5qVpxNDt). La aplicación será una herramienta para la [fundación Braval](https://www.braval.org/es), en la que los jugadores podrán ver su progreso tanto en los deportes como en los estudios.
