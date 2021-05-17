@@ -37,13 +37,13 @@ INICIO INSCRIPCIONES
 **5 MAYO**
 CIERRE DE INSCRIPCIONES 
 
-**26 MAYO**
+**2 JUNIO**
 PRESELECCIÓN -  Por votación. Se seleccionará a los 10 participantes que continuarán a la fase final.
 
-**16 JUNIO**
+**23 JUNIO**
 CIERRE VOTACIÓN
 
-**23 JUNIO**
+**30 JUNIO**
 ENTREGA DE PREMIOS
 
 Esta página se irá actualizando con nueva información a medida que vaya avanzando el torneo
