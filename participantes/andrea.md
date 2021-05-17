@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<img src="https://user-images.githubusercontent.com/19904063/117953727-99727680-b316-11eb-8491-3b76f5482e10.png" height="120" width="120" align="left"/> **Andrea Sandoval**
+<img src="https://pbs.twimg.com/profile_images/1392920087842201602/ruzKLrZ3_400x400.jpg" height="120" width="120" align="left"/> **Andrea Sandoval**
 
 Redes sociales:
 </br>
@@ -22,9 +22,8 @@ Redes sociales:
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
 -->
 <!-- Linkedin -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
--->
+<a href="https://www.linkedin.com/in/andrea-sandovalgom/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
+
 
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839969174"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
@@ -36,11 +35,13 @@ Redes sociales:
 
 
 
-## Sobre mi
+## Hola...
+Soy Andy, tengo 23 años y estudie ingenieria mecatrónica, desde el inicio de mi carrera me di cuenta que me apasionaba crear y desarrollar mis ideas a través de la programaición!  
+
+Actualmente trabajo en una agencia creativa en el área de desarrollo móvil y ¡llevo casi dos años trabajando con Flutter! he desarrollado paneles administrativos en con Flutter Web y diversas aplicaciones moviles. 
+
 
 <!-- Borrar esta linea
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ## Mis articulos
 
