@@ -38,7 +38,7 @@ Redes sociales:
 ## Hola...
 Soy Andy, tengo 23 años y estudie ingenieria mecatrónica, desde el inicio de mi carrera me di cuenta que me apasionaba crear y desarrollar mis ideas a través de la programaición!  
 
-Actualmente trabajo en una agencia creativa en el área de desarrollo móvil y ¡llevo casi dos años trabajando con Flutter! he desarrollado paneles administrativos en con Flutter Web y diversas aplicaciones moviles. 
+Actualmente trabajo en una agencia creativa en el área de desarrollo móvil y ¡llevo casi dos años trabajando con Flutter! he desarrollado paneles administrativos con Flutter Web y diversas aplicaciones moviles. 
 
 
 
