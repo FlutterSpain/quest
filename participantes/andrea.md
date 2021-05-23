@@ -47,6 +47,7 @@ Actualmente trabajo en una agencia creativa en el área de desarrollo móvil y �
 |               |               |
 | ------------- | ------------- |
 | <a href="https://andygomf.medium.com/animaci%C3%B3n-con-flutter-93cb696fc460"> <img src="https://miro.medium.com/max/356/1*auLRmVFxiE_lV-Y_ESgkOg.gif" height="200" align="right"/> </a>  |  **¡Animación con Flutter!** </br> Todo lo básico que necesitas saber y un tutorial para tu primera animación (: |
+| <a href="https://andygomf.medium.com/animaci%C3%B3n-decoration-en-flutter-86bf754676dc"> <img src="https://miro.medium.com/max/356/1*AMnWSYnd_A6-8SOoVt1Xvg.gif" height="200" align="right"/> </a>  |  **¡Animación Decoration con Flutter!** </br> Cambiar el estilo en una animación (bordes y gradiente y más) y vamos a terminar nuestra primera anumación (: |
 
 <!-- Borrar esta linea
 | <a href="https://medium.com/flutter/flutter-web-support-hits-the-stable-milestone-d6b84e83b425"> <img src="https://user-images.githubusercontent.com/19904063/117956630-84e3ad80-b319-11eb-9346-7fff4f49f659.png" height="200" align="right"/> </a>  |  **Flutter web support hits the stable milestone** </br> Publish to web and mobile from the same codebase |
