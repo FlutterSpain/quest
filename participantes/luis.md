@@ -1,5 +1,6 @@
+
 <!-- Profile Image -->
-<img src="https://user-images.githubusercontent.com/19904063/117953727-99727680-b316-11eb-8491-3b76f5482e10.png" height="120" width="120" align="left"/> **Luis Alfonso Cardoza**
+<img src="https://avatars.githubusercontent.com/u/7727498?s=400&u=67d15fcc85ce30bc45fd18753d09f2b69d029e6d&v=4" height="120" width="120" align="left"/> **Luis Cardoza Bird**
 
 Redes sociales:
 </br>
@@ -8,22 +9,13 @@ Redes sociales:
 <!-- Twitter -->
 <a href="https://twitter.com/Crdzbird_"> <img src="https://user-images.githubusercontent.com/19904063/117954385-40efa900-b317-11eb-8bd5-25acb19de064.png"  align="left"/> </a>
 
-<!-- Facebook -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954388-41883f80-b317-11eb-8315-decc0239f29b.png"  align="left"/> </a>
--->
 <!-- Github -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
--->
-<!-- Youtube -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
--->
+<a href="https://github.com/Crdzbird"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
+
 <!-- Linkedin -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
--->
+
+<a href="https://www.linkedin.com/in/luis-cardoza-bird-82a1aa95/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
+
 
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839986144"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
@@ -31,31 +23,31 @@ Redes sociales:
 </br>
 </br>
 
-# Luis Alfonso Cardoza 
-
+# Luis Cardoza Bird
 
 
 ## Sobre mi
 
-<!-- Borrar esta linea
+Soy desarrollador movil desde hace 6 años, me fascina todo lo que respecta a patrones de diseño, arquitectura limpia y todo lo que simplifique el desarrollo de apps moviles. Soy cofundador de una empresa de desarrollo llamada: `<DEVotion/>`.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Me gusta aportar a la comunidad de desarrollo, e igualmente apoyar a cada desarrollador con la creacion de plugins dirigidos a problemas unicos.
 
-## Mis articulos
+## Charlas
+
+|      Enlace         |    Descripción            |
+| ------------- | ------------- |
+| <a href="https://www.youtube.com/watch?v=gb7SKzUuiCw"> <img src="https://i.ytimg.com/an_webp/gb7SKzUuiCw/mqdefault_6s.webp?du=3000&sqp=COTproUG&rs=AOn4CLCKxeWK_sI_ivwh_ZERGR86uqCWeg" height="150" align="right"/> </a>  |  **Inyectando en el flujo de dependencias** </br> Detallando un poco sobre como puedes ahorrar codigo usando inyeccion de dependencias, y usando un ejemplo real con GetIt, Http y mucho mas! :smile:|
+
+
+
+## Plugins 
 
 |               |               |
 | ------------- | ------------- |
-| <a href="https://medium.com/flutter/announcing-xd-to-flutter-v2-0-c743bac2aeeb"> <img src="https://user-images.githubusercontent.com/19904063/117956006-eb1c0080-b318-11eb-93c4-7d921b528734.png" height="200" align="right"/> </a>  |  **Announcing XD to Flutter v2.0!** </br> Giving designers a fast path to production Flutter code |
-| <a href="https://medium.com/flutter/flutter-web-support-hits-the-stable-milestone-d6b84e83b425"> <img src="https://user-images.githubusercontent.com/19904063/117956630-84e3ad80-b319-11eb-9346-7fff4f49f659.png" height="200" align="right"/> </a>  |  **Flutter web support hits the stable milestone** </br> Publish to web and mobile from the same codebase |
-
-
-## Videos 
-
-|               |               |
-| ------------- | ------------- |
-| <a href="https://www.youtube.com/watch?v=ci14fb9n9TE"> <img src="https://img.youtube.com/vi/ci14fb9n9TE/0.jpg" height="200" align="right"/> </a>  |  **Flutter Engage Spain - Keynote** </br> |
-| <a href="https://www.youtube.com/watch?v=olMC7_Mayv8"> <img src="https://img.youtube.com/vi/olMC7_Mayv8/0.jpg" height="200" align="right"/> </a>  |  **Null Safety Q&A - Mesa redonda** </br> |
+| <a href="https://pub.dev/packages/flowder"> <img src="https://raw.githubusercontent.com/Crdzbird/flowder/main/icon/flour.png" height="200" align="right"/> </a>  |  **FLOWDER: Handle your file downloads status in a more simple and easy way 💓** </br> |
+| <a href="https://pub.dev/packages/floaty_head"> <img src="https://raw.githubusercontent.com/Crdzbird/floaty_chathead/master/screenshots/floaty_chathead.gif" height="200" width="200" align="right"/> </a>  |  **Floaty Head: A flutter plugin to create custom chatheads with hidden content displayed on tap, like Messenger** </br> |
+| <a href="https://pub.dev/packages/formio_flutter"> <img src="https://help.form.io/assets/formio-logo.png" height="200" width="200" align="right"/> </a>  |  **FormioFlutter: Create dinamic forms based on form.io** </br> |
+| <a href="https://pub.dev/packages/array_to_tree"> <img src="https://flutter.dev/images/flutter-logo-sharing.png" height="200" align="right"/> </a>  |  **Array_to_tree: Create any Multi Level Tree on your flutter app based on a Plain Array.** </br> |
 
 
 
--->
